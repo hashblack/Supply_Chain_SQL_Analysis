@@ -23,8 +23,10 @@ SQL (SQLite) — joins, CTEs, subqueries, window functions (RANK), date math, co
 
 ## Files
 - `queries.sql` — 9 analysis queries
-- `data/` — source CSVs (suppliers, products, purchase orders)
+- `suppliers.csv` — supplier data
+- `products.csv` — product/SKU data
+- `purchase_orders.csv` — purchase order transactions
 - `supply_chain.db` — SQLite database, tables pre-loaded
 
 ## Author
-Heesik Son — [LinkedIn] (www.linkedin.com/in/heesik-son) . Heesikson@gmail.com
+Heesik Son — [LinkedIn](https://www.linkedin.com/in/heesik-son) . Heesikson@gmail.com
