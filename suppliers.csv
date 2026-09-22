@@ -1,0 +1,26 @@
+supplier_id,supplier_name,country,quoted_lead_time_days,contract_start
+1,Hanwoo Trading,Thailand,19,2024-07-21
+2,Seorae Cosmetics,South Korea,10,2024-10-01
+3,Jinhae Labs,China,18,2024-10-25
+4,Blue Harbor Supply,South Korea,14,2024-04-19
+5,Nanjing Wellness,South Korea,10,2024-08-10
+6,Shenzhen Pack Co,Malaysia,17,2024-05-03
+7,Mekong Naturals,China,20,2024-08-05
+8,Saigon Beauty Works,South Korea,16,2024-10-16
+9,Osaka Fine Goods,China,17,2024-11-18
+10,Kyoto Botanicals,South Korea,14,2024-10-26
+11,Taipei Formulations,Malaysia,17,2024-04-23
+12,Hsinchu Materials,South Korea,14,2024-03-09
+13,Bangkok Botanics,Taiwan,15,2024-03-14
+14,Chiang Mai Extracts,China,20,2024-06-06
+15,Penang Supply Group,Vietnam,20,2024-10-24
+16,KL Packaging,Japan,10,2024-02-19
+17,Cascade Distribution,China,20,2024-01-31
+18,Puget Sound Imports,Japan,11,2024-12-14
+19,Dongdaemun Sourcing,Malaysia,23,2024-06-09
+20,Busan Export Partners,USA,7,2024-08-20
+21,Qingdao Containers,Thailand,20,2024-05-07
+22,Hangzhou Silk & Co,Vietnam,25,2025-02-03
+23,Hanoi Trading House,Japan,8,2024-10-21
+24,Da Nang Naturals,Taiwan,16,2024-09-10
+25,Sapporo Supply,Thailand,23,2024-08-17
