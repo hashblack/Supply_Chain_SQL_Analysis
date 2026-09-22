@@ -1,4 +1,4 @@
-# # Supply Chain Analysis — Supplier Performance & Inventory Risk
+# Supply Chain Analysis — Supplier Performance & Inventory Risk
 
 SQL analysis of a cosmetics import operation: 778 purchase orders, 25 suppliers across 8 countries, 60 SKUs.
 
@@ -27,4 +27,4 @@ SQL (SQLite) — joins, CTEs, subqueries, window functions (RANK), date math, co
 - `supply_chain.db` — SQLite database, tables pre-loaded
 
 ## Author
-Heesik Son — [www.linkedin.com/in/heesik-son] . [Heesikson@gmail.com]
+Heesik Son — [LinkedIn] (www.linkedin.com/in/heesik-son) . Heesikson@gmail.com
